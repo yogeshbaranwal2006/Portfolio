@@ -1,0 +1,40 @@
+header{
+    text-align:center;
+    font-size: x-large;
+}
+body{
+    
+    background-color: aquamarine;
+}
+.null{
+    font-size: xx-large;
+}
+.id{
+    text-align: center;
+}
+.na{
+    font-size: large;
+}
+.clip{
+    clip-path: circle();
+    height: 150px;
+    width: 150px;
+    text-align: center;
+}
+.h3{
+    text-align: center;
+}
+
+.profile{
+    text-align: center;
+}
+.edu{
+    text-align: inherit;
+    font-size: larger;
+}
+.skills{
+    
+    font-size: larger;
+}
+
+
